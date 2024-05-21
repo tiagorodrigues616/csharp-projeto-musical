@@ -1,0 +1,14 @@
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.deps.json
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.runtimeconfig.json
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.dll
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.pdb
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfoInputs.cache
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfo.cs
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.csproj.CoreCompileInputs.cache
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.dll
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/obj/Debug/net8.0/refint/csharp-projeto-musical.dll
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.pdb
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.genruntimeconfig.cache
+/Users/tiagorodrigues/Workspace/csharp-projeto-musical/csharp-projeto-musical/obj/Debug/net8.0/ref/csharp-projeto-musical.dll
